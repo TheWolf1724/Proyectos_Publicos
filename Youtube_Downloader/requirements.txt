@@ -1,0 +1,4 @@
+pytube
+progressbar2
+yt-dlp
+imageio[ffmpeg]
