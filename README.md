@@ -1,6 +1,7 @@
+> Created by TheWolf1724 with ❤️ para la comunidad.
 # Proyectos Públicos
 
-¡Bienvenido! Este repositorio contiene proyectos públicos desarrollados para facilitar tareas cotidianas y de entretenimiento. Aquí encontrarás herramientas listas para usar y de código abierto.
+¡Bienvenido! Este repositorio contiene proyectos desarrollados para facilitar tareas cotidianas y de entretenimiento. Aquí encontrarás herramientas listas para usar y de código abierto. Si te sientes inspirado para ayudar a mejorarlas, no dudes en hacerlo.
 
 ---
 
