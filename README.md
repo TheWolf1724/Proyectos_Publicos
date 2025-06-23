@@ -10,6 +10,9 @@
 - [🛡️ Force_Brute](./Force_Brute/README.md)
   - Herramienta automatizada para realizar ataques de fuerza bruta en pruebas de seguridad.
 
+- [🔎 Nmap Scan Script](./nmap_scan/README.md)
+  - Script interactivo en Bash para realizar escaneos de red con Nmap de forma sencilla y automatizada.
+
 - [🎵 Spotify Playlist Downloader](./Spotify_Downloader/README.md)
   - Descarga playlists públicas de Spotify de forma sencilla.
 
@@ -38,6 +41,9 @@ Welcome! This repository contains public projects developed to make daily and en
 
 - [🛡️ Force_Brute](./Force_Brute/README.md)
   - Automated tool for brute force attacks in security testing.
+
+- [🔎 Nmap Scan Script](./nmap_scan/README.md)
+  - Interactive Bash script for easy and automated network scans using Nmap.
 
 - [🎵 Spotify Playlist Downloader](./Spotify_Downloader/README.md)
   - Download public Spotify playlists easily.
