@@ -1,0 +1,13 @@
+<Window x:Class="PortMonitor.GUI.Views.PortEventDetailsWindowFixed"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Detalles del Evento - Port Monitor (FIXED)"
+        Height="600"
+        Width="800"
+        WindowStartupLocation="CenterOwner"
+        Style="{StaticResource MaterialDesignWindow}">
+    <Grid>
+        <!-- Copia aquí el contenido de PortEventDetailsWindow.xaml si es necesario -->
+    </Grid>
+</Window>
